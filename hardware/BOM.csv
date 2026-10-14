@@ -1,0 +1,16 @@
+Component,Part / Specification,Qty,Unit Cost (INR),Extended Cost (INR),Source / Notes
+Load cell,"Phaeton 611E parallel beam, 200 kg, 2.0 mV/V, IP65",4,650,2600,Industrial weighing supplier
+24-bit ADC,"HX711 breakout (green PCB), RATE pin 15 tied to DVDD pin 16",4,120,480,Generic
+Microcontroller,ESP32 NodeMCU-32S V1,1,450,450,Espressif-compatible module
+Top plate,"6 mm Al 6061-T6, 450 x 450 mm",1,1800,1800,Local waterjet / machine shop
+Base plate,12 mm marine plywood,1,900,900,Base support substrate
+Z-mount spacers & shims,"3 mm mild steel, laser cut, ground flat",8,90,720,Laser cut & ground flat
+Fasteners,"M6 grade 8.8 bolts, Nyloc nuts, washers",16,12,192,Fastener depot
+Levelling feet,"M8 adjustable, rubber pad",4,60,240,Vibration damping base
+Power,18650 Battery Shield V8 (2 x 3.7 V cells),1,700,700,Low-noise isolated power
+Haptic actuator,10 mm ERM motor + MOSFET driver,1,165,165,Disabled for human trials
+Enclosure & cabling,"Enclosure, cable glands, 4-core loom",1,600,600,Shielded signal cabling
+Calibration service,Certified masses 5/10/20 kg,1,3000,3000,Secondary reference standard
+Subtotal,,,,11847,
+Contingency (15%),,,,1777,Mechanical rework / spare parts
+Total build cost,,,,13624,~USD 166 at 82 INR/USD
